@@ -1,0 +1,15 @@
+/* Changes to Bootstrap's standard Jumbotron component */
+.p-3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+  background-color: black;
+}
+
+/* Space around twitter button */
+.twitterBtn {
+  margin: 2rem;
+}
