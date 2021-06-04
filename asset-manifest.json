@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Random-Star-Wars-Quotes/static/css/main.a2359c2c.chunk.css",
+    "main.js": "/Random-Star-Wars-Quotes/static/js/main.fd5c2f1a.chunk.js",
+    "main.js.map": "/Random-Star-Wars-Quotes/static/js/main.fd5c2f1a.chunk.js.map",
+    "runtime-main.js": "/Random-Star-Wars-Quotes/static/js/runtime-main.e6d7488b.js",
+    "runtime-main.js.map": "/Random-Star-Wars-Quotes/static/js/runtime-main.e6d7488b.js.map",
+    "static/js/2.289bd4fa.chunk.js": "/Random-Star-Wars-Quotes/static/js/2.289bd4fa.chunk.js",
+    "static/js/2.289bd4fa.chunk.js.map": "/Random-Star-Wars-Quotes/static/js/2.289bd4fa.chunk.js.map",
+    "static/js/3.7e47f0bf.chunk.js": "/Random-Star-Wars-Quotes/static/js/3.7e47f0bf.chunk.js",
+    "static/js/3.7e47f0bf.chunk.js.map": "/Random-Star-Wars-Quotes/static/js/3.7e47f0bf.chunk.js.map",
+    "index.html": "/Random-Star-Wars-Quotes/index.html",
+    "static/css/main.a2359c2c.chunk.css.map": "/Random-Star-Wars-Quotes/static/css/main.a2359c2c.chunk.css.map",
+    "static/js/2.289bd4fa.chunk.js.LICENSE.txt": "/Random-Star-Wars-Quotes/static/js/2.289bd4fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6d7488b.js",
+    "static/js/2.289bd4fa.chunk.js",
+    "static/css/main.a2359c2c.chunk.css",
+    "static/js/main.fd5c2f1a.chunk.js"
+  ]
+}
